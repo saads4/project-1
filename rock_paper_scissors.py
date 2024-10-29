@@ -21,7 +21,7 @@ def invalid():
     engine.say("invalid input")
     engine.runAndWait()
 import random
-user= input("enter ur choice    ")
+user= input("enter ur choice: ")
 import pyttsx3
 engine = pyttsx3.init()
 engine.say( "Rock Paper Scissors shoot")
