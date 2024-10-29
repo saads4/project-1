@@ -29,7 +29,7 @@ engine.runAndWait()
 computer=random.choice(("rock","paper","scissors"))
 print("u choose  "+user)
 print("computer chooses  "+computer)
-if(user==computer):
+if( user==computer):
     draw()
     print("Draw")
 elif(user=="rock" and computer=="paper"):
