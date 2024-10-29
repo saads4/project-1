@@ -1,0 +1,6 @@
+helps in git working
+"cd" is used for changing directory or for opening a new folder in terminal
+"git status" is to check the status of the git folder weather a new file is added or changes made within the exiting file
+"git add ." is used to add all the new file and changes to the git file
+"git commit -m"message to be potrayed"" is used to commit a the changes to git repository
+"git push origin main" is used push the change aqnd file and codes to he github
