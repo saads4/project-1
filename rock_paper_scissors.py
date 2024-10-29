@@ -1,4 +1,5 @@
 #developing a simple game of rock paper scissors
+print("enter your choice \n rock \n scissors \n paper")
 def win():
     import pyttsx3
     engine = pyttsx3.init()
