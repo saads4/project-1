@@ -15,5 +15,3 @@ while(c<=5):
             print("Your score is:",(5-c))
             print("Number was:" ,num) 
             break
-
-        
